@@ -6,7 +6,7 @@ public class Shield {
 
     public static void main(String[] args) {
 
-        List<Hero> heroes = new ArrayList();
+        List<Hero> heroes = new ArrayList<>();
         heroes.add(new Hero("Black Widow", 34, false));
         heroes.add(new Hero("Captain America", 100, false));
         heroes.add(new Hero("Vision", 3, true));
